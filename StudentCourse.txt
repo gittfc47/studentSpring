@@ -1,0 +1,4 @@
+﻿Caleb,jdtg0@aws.com,Female
+Aida,adattt@test.gov,Female,CS,B,4,CS12,A,4
+Alex,Adavis@bccs.com,Male,BS,B,3,Hist,A,3
+Meba,mtravis@yahoo.com,Male,ENG,A,4,CS12,A,4
